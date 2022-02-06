@@ -1,7 +1,6 @@
 ## Hello! My name is Giovane Daniel!
 
 - 🧠 Learning web development using JavaScript, React and Node.Js! Trybe Student for the 21 class.
-- 🥳 I like to share and learn about coding! 
 - ❗ Future plans: TypeScript, ReactNative.
 
 <div align="center">
