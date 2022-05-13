@@ -1,9 +1,8 @@
 <img src="https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmaGtrrWxrbQ.jpg" width="1000" height="300"/>
 
-## Hello! My name is Giovane Daniel!
+<h3 align="center">Hello! My name is Giovane Daniel!</h3>
 
-- 🧠 Learning web development using JavaScript, React and Node.Js!
-- ❗ Future plans: TypeScript, ReactNative.
+<h4 align="center"> Web developer student, front-end enthusiast. </h4>
 
 <div align="center">
   <a href="https://github.com/giovanedann">
@@ -13,7 +12,7 @@
   
   ##
   
-<div style="display: inline-block"><br>
+<div style="display: inline-block" align="center"><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -29,7 +28,7 @@
   
   ##
   
-<div> 
+<div align="center"> 
   <a href = "mailto:giovanes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovane-daniel-a53b38196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!---
