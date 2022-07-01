@@ -2,7 +2,7 @@
 
 <h3 align="center">Welcome! I'm Giovane!</h3>
 
-<h4 align="center"> Web developer student, front-end enthusiast. </h4>
+<h4 align="center">Front-end developer. </h4>
 
 <div align="center">
   <a href="https://github.com/giovanedann">
