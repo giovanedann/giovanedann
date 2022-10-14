@@ -1,8 +1,5 @@
 <img src="https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmaGtrrWxrbQ.jpg" width="1000" height="300"/>
 
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Giovane!
-================================================================================================================================
-
 Front-End Developer
 -------------------
 
