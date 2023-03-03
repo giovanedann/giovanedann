@@ -31,13 +31,14 @@ Front-End Developer
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"   alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"   alt="Express" /></a>
   <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"   alt="Strapi" /></a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"   alt="Jest" /></a>
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white"   alt="React Testing Library" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"   alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"   alt="Github" /></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"   alt="Github Actions" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"   alt="Jira" /></a>
   <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"   alt="Apollo GraphQL" /></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"   alt="Jest" /></a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white"   alt="React Testing Library" /></a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"   alt="Playwright" /></a>
   </p>
 <br /><br />
 
