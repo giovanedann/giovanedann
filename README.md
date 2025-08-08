@@ -2,7 +2,7 @@ Full-Stack Developer
 -------------------
 
 *   🌍  I'm based in São Paulo, Brazil.
-*   🖥️  See my portfolio at [here](http://giovanedann.github.io/)
+*   🖥️  See my portfolio at [here](http://giovanesaes.com.br/)
 *   ✉️  You can contact me at [giovanes.dev@gmail.com](mailto:giovanes.dev@gmail.com)
 *   🚀  You can also reach me at [LinkedIn](https://www.linkedin.com/in/giovanesaesdev/)
 *   🧠  I'm currently improving my skills with NextJS, TypeScript, React and React Native!
