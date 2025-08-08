@@ -1,5 +1,3 @@
-<img src="https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmaGtrrWxrbQ.jpg" width="1000" height="300"/>
-
 Full-Stack Developer
 -------------------
 
